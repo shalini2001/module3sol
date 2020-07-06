@@ -1,0 +1,50 @@
+body{
+	font-size: 16px;
+	color: black;
+	background-color: #ffe6e6;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.navbar{
+	background-color: #e60000;
+}
+
+.navbar-brand h1{
+	font-family: 'Dancing Script', cursive;
+	color: white;
+	font-size: 250%;
+
+}
+.navbar-light .navbar-nav .nav-link {
+	position: relative;
+	color: white;
+	font-family: 'Oxygen', sans-serif;
+	}
+	a:hover{
+		background-color: darkred;
+		color:white;
+	}
+	h1:hover{
+		background-color:;
+		padding: 0px;
+	}
+	p{
+		color: black;
+		margin-top: 15px;
+		font-size: 50px;
+	}
+	h2{
+		text-align: center;
+		font-family: 'Pacifico', cursive;
+		color: darkred;
+
+	}
+	#p
+	{
+		border: 1px solid black;
+		padding: 10px;
+		margin: 20px;
+		font-size: 20px;
+		box-shadow: 4px grey;
+		background-color: lavender;
+	}
